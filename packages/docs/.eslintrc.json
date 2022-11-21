@@ -1,0 +1,3 @@
+{
+  "extends": "@oxe-ui/eslint-config"
+}
