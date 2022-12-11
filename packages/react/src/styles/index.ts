@@ -6,6 +6,7 @@ import {
   lineHeights,
   radii,
   space,
+  sizes,
 } from '@oxe-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
@@ -32,5 +33,6 @@ export const {
     lineHeights,
     space,
     radii,
+    sizes,
   },
 })
